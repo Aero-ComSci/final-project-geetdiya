@@ -14,3 +14,16 @@ This program will randomly generate a move such as (rock, paper, or scissors) si
 def move(my_move, their_move):
    pick = random.choice(["r", "p", "s"])
    return pick
+
+### 2. Using a loop 
+python 
+CopyEdit
+for players in players:
+    chosen_move = move([], [])
+    moves.append(chosen move)
+
+### 3. Using a collection like a list
+python
+Copyedit
+players = ["Player 1", "Player 2", "Player 3"]
+moves = []
