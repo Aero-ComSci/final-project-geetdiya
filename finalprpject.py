@@ -30,4 +30,4 @@ if moves[0] == moves[1] == moves[2]:
 elif "r" in moves and "p" in moves and "s" in moves 
     print("n/Results: Its a tie! Everyone wins!")
 else: 
-print(n/Results: Two players picked the same choice, its a tie!")
+print("n/Results: Two players picked the same choice, its a tie!")
