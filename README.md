@@ -1,4 +1,4 @@
-# 3-player Rock, Paper, Scissors: "Beat Geet" Edition 
+# 3-player Rock, Paper, Scissors: "Beat Geet and Diya" Edition 
 
 # Who is this program for?
 This is a fun and beginner-friendly game for people that are bored during the summer. It's made for students that want to a fun game to use, and also learn basic loops, lists, and functions. 
