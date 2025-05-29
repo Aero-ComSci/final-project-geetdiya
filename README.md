@@ -17,13 +17,11 @@ def move(my_move, their_move):
 
 ### 2. Using a loop 
 python 
-CopyEdit
 for players in players:
     chosen_move = move([], [])
     moves.append(chosen move)
 
 ### 3. Using a collection like a list
 python
-Copyedit
 players = ["Player 1", "Player 2", "Player 3"]
 moves = []
