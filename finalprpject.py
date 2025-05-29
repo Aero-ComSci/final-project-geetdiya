@@ -23,7 +23,7 @@ for names in players
 print("n/Moves:")
 print("Player 1:", moves = [0])
 print("Player 2:", moves = [1])
-print (Player 3:", moves = [2])
+print ("Player 3:", moves = [2])
 
 if moves[0] == moves[1] == moves[2]:
     print("n/Result: Everyone Wins! Its a tie")
