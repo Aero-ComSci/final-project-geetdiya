@@ -10,8 +10,7 @@ This program will randomly generate a move such as (rock, paper, or scissors) si
 ## Code examples 
 
 ### 1. Using a function
-'''
-   return pick](https://drive.google.com/file/d/1SlHH7xDx0VM_A8kSRBszgRPgtPsTxuc7/view?usp=sharing)
+'''(https://drive.google.com/file/d/1SlHH7xDx0VM_A8kSRBszgRPgtPsTxuc7/view?usp=sharing)
 '''
 
 ### 2. Using a loop 
